@@ -1,11 +1,6 @@
-# Repositorio de las Clases Sobre Python
-
-## Universidad de Buenos Aires - Facultad de Economía
+# Universidad de Buenos Aires - Facultad de Economía
 
 
-### Estadística I - Profesor Rodrigo del Rosso
+### Computación Cinetífica- Profesor Rodrigo del Rosso
 
-
-Link a la página web:https://esatdistica-rodri.netlify.app/
-
-Link a Youtube:   https://www.youtube.com/channel/UCydKDyz-5pRoxulQG_1sU_g
+Playlist Youtube: https://youtube.com/playlist?list=PL23OfmO5r49qWVssgBimvtA-cMq2MWZD7
